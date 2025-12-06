@@ -6,7 +6,7 @@
 
 - **`Links`**:
     - [Bộ câu hỏi khảo sát gốc các tài liệu tham khảo (Google Docs)](https://docs.google.com/document/d/1GrlKWmcTHlS_q1oidH2k2aDYMLB9TyhVJbEluganJRA/edit?usp=sharing)
-    - [Biểu mẫu khảo sát (Google Forms)](https://docs.google.com/forms/d/1GVmOq-asZoXf5nzOEaHVyASod12fNiLBcyk8z-P6hg8/edit?usp=sharing)
+    - [Biểu mẫu khảo sát (Google Forms)](https://forms.gle/tpeTBKws8PG9SwV8A) (cập nhật liên kết chỉnh sửa phản hồi sau khi báo cáo hoàn thành)
     - [Bảng dữ liệu trực tuyến (Google Sheets)](https://docs.google.com/spreadsheets/d/1lGLb9rMBVbH1lxGtAwm-2Brqub9nndTYUQRl-NX3YTA/edit?usp=sharing)
 - **`Reports`**:
     - `eda_report.html`: Báo cáo phân tích khám phá dữ liệu tự động (xem tổng quan biến, phân phối).
