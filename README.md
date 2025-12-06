@@ -10,7 +10,8 @@
     - [Bảng dữ liệu trực tuyến (Google Sheets)](https://docs.google.com/spreadsheets/d/1lGLb9rMBVbH1lxGtAwm-2Brqub9nndTYUQRl-NX3YTA/edit?usp=sharing)
 - **`Reports`**:
     - `eda_report.html`: Báo cáo phân tích khám phá dữ liệu tự động (xem tổng quan biến, phân phối).
-    - `Bao_cao_chinh_thuc.pdf`: Báo cáo khoa học hoàn chỉnh (định dạng LaTeX).
+    - `Scientific_Report.pdf`: Báo cáo khoa học ngắn hoàn chỉnh (định dạng LaTeX).
+    - `Project_Report.pdf`: Báo cáo tổng thể đồ án (định dạng LaTeX).
 - **`Media`**:
     - `Infographic.png`: Đồ họa thông tin tổng hợp một số đặc điểm nổi bật trong khảo sát một cách trực quan (có sự hỗ trợ từ AI).
     - `Slides.pdf`: Bài thuyết trình báo cáo sản phẩm đồ án.
