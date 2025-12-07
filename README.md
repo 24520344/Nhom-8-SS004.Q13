@@ -1,5 +1,14 @@
 # [Nhóm 8 - SS004.Q13] Đề tài #12: Nghiên cứu "Văn Hóa Yêu Đương"
 
+**Danh sách thành viên:**
+```text
+24520344 - Nguyễn Việt Dũng | Nhóm trưởng
+24520301 - Tạ Vương Điền
+24520046 - Huỳnh Hoà Ân
+24520865 - Nguyễn Thành Khôi
+23520181 - Lê Hoàng Chiến
+```
+
 **Mô tả:** Đề tài này tập trung nghiên cứu quan điểm, hành vi và các yếu tố ảnh hưởng đến tình yêu của giới trẻ.
 
 ## 📂 Tổng hợp
