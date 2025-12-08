@@ -32,7 +32,7 @@
 
 ## 🛠️ Công cụ sử dụng
 - **Thu thập dữ liệu:** Google Forms.
-- **Xử lý dữ liệu:** Google Sheets & Python.
+- **Xử lý dữ liệu:** Google Sheets & Python (ydata_profiling).
 - **Soạn thảo báo cáo:** Google Docs, LaTeX.
 - **Thiết kế:** Canva.
 
