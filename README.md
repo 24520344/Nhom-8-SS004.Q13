@@ -24,7 +24,7 @@
     - `Infographic.png`: Đồ họa thông tin tổng hợp một số đặc điểm nổi bật trong khảo sát một cách trực quan (có sự hỗ trợ từ AI).
     - `Slides.pdf`: Bài thuyết trình báo cáo sản phẩm đồ án.
 - **`Videos`**: Phỏng vấn ý kiến các bạn sinh viên sau khi thực hiện khảo sát và cảm nghĩ về số liệu thu được.
-    - [Phỏng vấn REMAKE]()
+    - [Phỏng vấn REMAKE](https://youtu.be/0ngcmhJlZFs)
     - [Phỏng vấn 1 - Hưng](https://youtu.be/gnMT_XYygsY)
     - [Phỏng vấn 2 - Nhật Anh](https://youtu.be/EFCsRnbWbJ8)
     - [Phỏng vấn 3 (lỗi tệp ghi âm)](https://youtu.be/i5FCdv1xkdU)
