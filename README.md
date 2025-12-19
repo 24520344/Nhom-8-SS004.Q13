@@ -32,7 +32,7 @@
     - [Phỏng vấn 5 - Quang](https://youtube.com/watch?v=7rETK0PzoAk?feature=share)
 - **`Others`**:
     - [Notion phân chia công việc](https://www.notion.so/NH-M-8-268f5f85b85c807f9d53df1402824a88?source=copy_link)
-    - [Họp triển khai đồ án]()
+    - [Họp triển khai đồ án](https://youtu.be/mc8vX8To0es)
 
 ## 🛠️ Công cụ sử dụng
 - **Thu thập dữ liệu:** Google Forms.
