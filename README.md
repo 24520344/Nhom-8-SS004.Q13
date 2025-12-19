@@ -30,6 +30,9 @@
     - [Phỏng vấn 3 (lỗi tệp ghi âm)](https://youtu.be/i5FCdv1xkdU)
     - [Phỏng vấn 4 (lỗi tệp ghi âm)](https://youtu.be/DGc98Na6Dac)
     - [Phỏng vấn 5 - Quang](https://youtube.com/watch?v=7rETK0PzoAk?feature=share)
+- **`Others`**:
+    - [Notion phân chia công việc](https://www.notion.so/NH-M-8-268f5f85b85c807f9d53df1402824a88?source=copy_link)
+    - [Họp triển khai đồ án]()
 
 ## 🛠️ Công cụ sử dụng
 - **Thu thập dữ liệu:** Google Forms.
