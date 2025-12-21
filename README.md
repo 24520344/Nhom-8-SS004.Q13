@@ -33,6 +33,7 @@
 - **`Others`**:
     - [Notion phân chia công việc](https://www.notion.so/NH-M-8-268f5f85b85c807f9d53df1402824a88?source=copy_link)
     - [Họp triển khai đồ án](https://youtu.be/mc8vX8To0es)
+    - [Nhóm Zalo của Nhóm 8 - SS004.Q13](https://zalo.me/g/zygird807)
 
 ## 🛠️ Công cụ sử dụng
 - **Thu thập dữ liệu:** Google Forms.
